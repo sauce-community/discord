@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "name": "Website",
+      "value": "https://saucedao.io/\n\n",
+      "inline": false
+    },
+    {
+      "name": "Telegram ",
+      "value": "https://t.me/saucedao",
+      "inline": false
+    },
+    {
+      "name": "Discord ",
+      "value": "https://discord.gg/RqxhSuSYgS",
+      "inline": false
+    },
+    {
+      "name": "Quick Links",
+      "value": "What is OSS - https://open-source-society.notion.site/What-Is-OSS-208f7015879140f9b4cc5abea9e669fe\nTime Availability - https://www.when2meet.com/?13632849-loGk3\nGithub -  https://github.com/oss-community/dao\nFigma - https://www.figma.com/file/PqWqr0VcSmKpZARAp7frGV/OpenSauce-Frontend-(1.0.1)?node-id=0%3A1",
+      "inline": false
+    },
+    {
+      "name": "Important Channels",
+      "value": "Introduce your self in #introduce-yourself\nSet your relevant skills in #reaction-roles\nCheck the #🗓-event-schedule to find events such as pitch night. \nIf you have a project to promote see #promote-your-project \nIf you are looking to hire or be hired see #hire-me and #jobs ",
+      "inline": false
+    }
+  ],
+  "timestamp": "2021-12-13T04:00:00.000Z",
+  "title": "Welcome to the Sauce",
+  "description": "Human, social, and financial capital\nfor the masses.",
+  "author": {
+    "name": "SauceDAO",
+    "url": "https://saucedao.io",
+    "icon_url": "https://saucedao.io/img/logo-white.png"
+  },
+  "color": 16098851,
+  "footer": {
+    "icon_url": "",
+    "text": "updated: 13th Dec 2021"
+  }
+}
